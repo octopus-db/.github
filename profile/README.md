@@ -5,4 +5,5 @@ OCTOPUS is an Open Geospatial Consortium (OGC) compliant web-enabled database th
 The database follows the FAIR data principles and is based on open-source software deployed on Google Cloud Platform. Data stored in the database can be visualised, queried, and downloaded via a custom-built web interface and via desktop GIS applications that support OGC data access protocols.
 
 
-<img width="1750" alt="Screen Shot 2023-09-05 at 3 24 32 pm" src="https://github.com/octopus-db/.github/assets/21254372/4cf57209-84bb-4290-bfb9-15ef9d310a9a">
+<img width="1600" alt="Screenshot 2024-08-14 at 3 56 43 pm" src="https://github.com/user-attachments/assets/31c8524b-0d57-414b-a88c-4563c1d55263">
+
